@@ -1,0 +1,17 @@
+{
+    "name": "mtymek/zendview-standalone-example",
+    "description": "Example of using Zend\\View without full MVC stack",
+    "require": {
+        "zendframework/zend-filter": "2.2.*",
+        "zendframework/zend-servicemanager": "2.2.*",
+        "zendframework/zend-view": "2.2.*"
+    },
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "Mateusz Tymek",
+            "email": "mtymek@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}

@@ -1,0 +1,9 @@
+._*
+.~lock.*
+.DS_Store
+.buildpath
+.idea
+.project
+.settings
+nbproject
+vendor
